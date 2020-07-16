@@ -22,8 +22,11 @@
 - Try and find someone to work on the design
 - Invite everyone to the slack
   - Should we stick with code.assist or should we make a new slack to fit the new name?
+- Invite everyone to the meetup glo board
+  - review the plans of the meetup glo board
 - Want to add Emojis in VS Code?
   - This is a feature of Mac OS X. Press CTRL+CMD+Space to bring up the emoji menu! On Windows 10 you can use CTRL+Period
+- Any extra time pair up on a code challenge or plan out the random pairing app
 
 ### GO BACK HOME
 > [home](../readme.md)
