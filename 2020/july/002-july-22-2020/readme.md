@@ -36,3 +36,7 @@
     - We will work as teams for the Intermediate Algorithm Scripting and Project Sections.
     - We still have about a month until we start these projects but I want everyone to have the course work finished and there is a decent amount.
     - With that in mind this will be the homework for the next month.
+
+
+### GO BACK HOME
+> [home](../../../readme.md)

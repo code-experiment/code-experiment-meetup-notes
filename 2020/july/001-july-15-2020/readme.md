@@ -28,5 +28,6 @@
   - This is a feature of Mac OS X. Press CTRL+CMD+Space to bring up the emoji menu! On Windows 10 you can use CTRL+Period
 - Any extra time pair up on a code challenge or plan out the random pairing app
 
+
 ### GO BACK HOME
-> [home](../readme.md)
+> [home](../../../readme.md)
