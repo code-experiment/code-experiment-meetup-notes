@@ -1,4 +1,4 @@
-# Code Experiment Meeting 002 July 22nd, 2020
+# Code Experiment Meeting 003 July 29th, 2020
 
 ## Agenda
 - **Welcome any new people**
