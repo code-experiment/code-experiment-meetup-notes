@@ -12,3 +12,6 @@
 - [004-august-05-2020](./2020/august/004-august-05-2020/readme.md)
   - Challenge: [FreeCodeCamp Product Landing Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
   - Attendees: Daniel, Danielle, Gerritt, Michael
+- [005-august-12-2020](./2020/august/005-august-12-2020/readme.md)
+  - Challenge: [FreeCodeCamp Technical Documentation Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page)
+  - Attendees: Danielle, Daniel and Michael
