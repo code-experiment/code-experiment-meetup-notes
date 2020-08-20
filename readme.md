@@ -15,3 +15,6 @@
 - [005-august-12-2020](./2020/august/005-august-12-2020/readme.md)
   - Challenge: [FreeCodeCamp Technical Documentation Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page)
   - Attendees: Danielle, Daniel and Michael
+- [006-august-19-2020](./2020/august/006-august-19-2020/readme.md)
+  - Challenge: [FreeCodeCamp Personal Portfolio Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage)
+  - Attendees: Danielle and Daniel
