@@ -18,3 +18,7 @@
 - [006-august-19-2020](./2020/august/006-august-19-2020/readme.md)
   - Challenge: [FreeCodeCamp Personal Portfolio Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage)
   - Attendees: Danielle and Daniel
+- [007-august-26-2020](./2020/august/007-august-26-2020/readme.md)
+  - Challenge: [FCC: JS Algorithms and Data Structures: Introduction to Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/)
+    - Got up to and finished: [Repeat a String Repeat a String](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/repeat-a-string-repeat-a-string)
+  - Attendees: Daniel, Jyothi, Michael, and Nate
