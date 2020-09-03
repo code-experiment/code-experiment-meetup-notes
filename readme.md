@@ -24,5 +24,5 @@
   - Attendees: Daniel, Jyothi, Michael, and Nate
 - [008-september-02-2020](./2020/september/008-september-02-2020/readme.md)
   - Challenge: [FCC: JS Algorithms and Data Structures: Introduction to Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/)
-    - Got up to and finished: []()
+    - Not enough people, Daniel and Rixio worked through previous portions of FreeCodeCamp to catch him up.
   - Attendees: Daniel and Rixio
