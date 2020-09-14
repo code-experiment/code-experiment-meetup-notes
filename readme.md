@@ -26,3 +26,7 @@
   - Challenge: [FCC: JS Algorithms and Data Structures: Introduction to Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/)
     - Not enough people, Daniel and Rixio worked through previous portions of FreeCodeCamp to catch him up.
   - Attendees: Daniel and Rixio
+- [009-september-09-2020](./2020/september/009-september-09-2020/readme.md)
+  - Challenge: [FCC: JS Algorithms and Data Structures: Introduction to Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/truncate-a-string)
+    - We got up to and finished [Title Case A Sentence](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/title-case-a-sentence)
+  - Attendees: Daniel and Michael
