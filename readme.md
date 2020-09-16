@@ -30,3 +30,7 @@
   - Challenge: [FCC: JS Algorithms and Data Structures: Introduction to Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/truncate-a-string)
     - We got up to and finished [Title Case A Sentence](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/title-case-a-sentence)
   - Attendees: Daniel and Michael
+- [010-september-15-2020](./2020/september/010-september-15-2020/readme.md)
+  - Challenge: [FCC: JS Algorithms and Data Structures: Introduction to Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/slice-and-splice)
+    - We finished the Basic Algorithm Scripting Section!
+  - Attendees: Daniel, Heith and Michael
