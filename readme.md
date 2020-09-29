@@ -34,3 +34,7 @@
   - Challenge: [FCC: JS Algorithms and Data Structures: Introduction to Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/slice-and-splice)
     - We finished the Basic Algorithm Scripting Section!
   - Attendees: Daniel, Heith and Michael
+- [011-september-22-2020](./2020/september/011-september-22-2020/readme.md)
+  - Challenge: [FCC: JS Algorithms and Data Structures: Introduction to Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/)
+    - We got up to and finished Seek and Destroy
+  - Attendees: Daniel, Heith and Michael
