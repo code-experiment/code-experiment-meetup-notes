@@ -38,3 +38,7 @@
   - Challenge: [FCC: JS Algorithms and Data Structures: Introduction to the Intermediate Algorithm Scripting Challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/)
     - We got up to and finished Seek and Destroy
   - Attendees: Daniel, Heith and Michael
+- [012-september-29-2020](./2020/september/012-september-29-2020/readme.md)
+  - Challenge: [FCC: JS Algorithms and Data Structures: Introduction to the Intermediate Algorithm Scripting Challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/wherefore-art-thou)
+    - We got up to and finished Spinal Tap Case
+  - Attendees: Daniel and Michael
