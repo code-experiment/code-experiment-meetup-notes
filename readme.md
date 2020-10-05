@@ -42,3 +42,4 @@
   - Challenge: [FCC: JS Algorithms and Data Structures: Introduction to the Intermediate Algorithm Scripting Challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/wherefore-art-thou)
     - We got up to and finished Spinal Tap Case
   - Attendees: Daniel and Michael
+  - [Hey Daniel, I'm showing a student how to contribute to open source projects. Don't merge me in lol.]
