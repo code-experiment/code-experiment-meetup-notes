@@ -42,3 +42,7 @@
   - Challenge: [FCC: JS Algorithms and Data Structures: Introduction to the Intermediate Algorithm Scripting Challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/wherefore-art-thou)
     - We got up to and finished Spinal Tap Case
   - Attendees: Daniel and Michael
+- [013-october-06-2020](./2020/october/013-october-05-2020/readme.md)
+  - Challenge: [FCC: JS Algorithms and Data Structures: Introduction to the Intermediate Algorithm Scripting Challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/dna-pairing)
+    - We got up to and finished DNA Pairing
+  - Attendees: Daniel and Heith
