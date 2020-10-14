@@ -43,6 +43,10 @@
     - We got up to and finished Spinal Tap Case
   - Attendees: Daniel and Michael
 - [013-october-06-2020](./2020/october/013-october-05-2020/readme.md)
-  - Challenge: [FCC: JS Algorithms and Data Structures: Introduction to the Intermediate Algorithm Scripting Challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/dna-pairing)
+  - Challenge: [FCC: JS Algorithms and Data Structures: Introduction to the Intermediate Algorithm Scripting Challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/pig-latin)
     - We got up to and finished DNA Pairing
   - Attendees: Daniel and Heith
+- [014-october-13-2020](./2020/october/014-october-13-2020/readme.md)
+  - Challenge: [FCC: JS Algorithms and Data Structures: Introduction to the Intermediate Algorithm Scripting Challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/missing-letters)
+    - We got up to and finished Convert Html Entities
+  - Attendees: Daniel, Heith, and Michael
