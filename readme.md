@@ -50,3 +50,7 @@
   - Challenge: [FCC: JS Algorithms and Data Structures: Introduction to the Intermediate Algorithm Scripting Challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/missing-letters)
     - We got up to and finished Convert Html Entities
   - Attendees: Daniel, Heith, and Michael
+- [015-october-20-2020](./2020/october/015-october-20-2020/readme.md)
+  - Challenge: [FCC: JS Algorithms and Data Structures: Introduction to the Intermediate Algorithm Scripting Challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-primes)
+    - We got up to and finished Sum All Primes
+  - Attendees: Daniel, Michael, and Nathan
