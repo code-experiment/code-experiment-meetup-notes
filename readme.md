@@ -54,3 +54,7 @@
   - Challenge: [FCC: JS Algorithms and Data Structures: Introduction to the Intermediate Algorithm Scripting Challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-primes)
     - We got up to and finished Sum All Primes
   - Attendees: Daniel, Michael, and Nathan
+- [016-october-27-2020](./2020/october/016-october-27-2020/readme.md)
+  - Challenge: [FCC: JS Algorithms and Data Structures: Introduction to the Intermediate Algorithm Scripting Challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/drop-it)
+    - We got up to and finished Drop It
+  - Attendees: Daniel, Michael, and Nathan
