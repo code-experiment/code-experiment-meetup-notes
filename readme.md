@@ -58,3 +58,7 @@
   - Challenge: [FCC: JS Algorithms and Data Structures: Introduction to the Intermediate Algorithm Scripting Challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/drop-it)
     - We got up to and finished Drop It
   - Attendees: Daniel, Michael, and Nathan
+- [017-november-03-2020](./2020/november/017-november-03-2020/readme.md)
+  - Challenge: [FCC: JS Algorithms and Data Structures: Introduction to the Intermediate Algorithm Scripting Challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/steamroller)
+    - We got up to and finished Steamroller
+  - Attendees: Daniel, Michael, and Nathan
