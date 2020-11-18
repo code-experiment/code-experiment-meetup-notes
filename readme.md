@@ -66,3 +66,7 @@
   - Challenge: [FCC: JS Algorithms and Data Structures: Introduction to the Intermediate Algorithm Scripting Challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/binary-agents)
     - We got up to and finished Binary Agents
   - Attendees: Daniel, Michael, and Nathan
+- [019-november-17-2020](./2020/november/019-november-17-2020/readme.md)
+  - Challenge: [FCC: JS Algorithms and Data Structures: Introduction to the Intermediate Algorithm Scripting Challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/binary-agents)
+    - We got up to and finished Make a Person
+  - Attendees: Daniel, and Michael
