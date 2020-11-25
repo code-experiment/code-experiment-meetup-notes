@@ -67,6 +67,10 @@
     - We got up to and finished Binary Agents
   - Attendees: Daniel, Michael, and Nathan
 - [019-november-17-2020](./2020/november/019-november-17-2020/readme.md)
-  - Challenge: [FCC: JS Algorithms and Data Structures: Introduction to the Intermediate Algorithm Scripting Challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/binary-agents)
+  - Challenge: [FCC: JS Algorithms and Data Structures: Introduction to the Intermediate Algorithm Scripting Challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/everything-be-true)
     - We got up to and finished Make a Person
   - Attendees: Daniel, and Michael
+- [020-november-24-2020](./2020/november/020-november-24-2020/readme.md)
+  - Challenge: [FCC: JS Algorithms and Data Structures: Introduction to the Intermediate Algorithm Scripting Challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/map-the-debris)
+    - We got up to and partially finished Roman Numeral Converter
+  - Attendees: Daniel, Michael, and Nathan
