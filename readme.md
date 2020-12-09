@@ -78,3 +78,7 @@
   - Challenge: [FCC: JS Algorithms and Data Structures: Introduction to the Intermediate Algorithm Scripting Challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher)
     - We got up to and partially finished Telephone Number Validator
   - Attendees: Daniel, Heith, Michael
+- [022-december-08-2020](./2020/november/020-november-24-2020/readme.md)
+  - Challenge: [FCC: JS Algorithms and Data Structures: Introduction to the Intermediate Algorithm Scripting Challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
+    - We finished Cash Register.  This has now finished the JS Algorithms and Data Structures Certificate.  We will finish up the Repl.it SQL course next time and then jump into the Front End Libraries Certificate.
+  - Attendees: Daniel, Michael, Nate, Tyson
