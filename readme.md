@@ -82,3 +82,8 @@
   - Challenge: [FCC: JS Algorithms and Data Structures: Introduction to the Intermediate Algorithm Scripting Challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
     - We finished Cash Register.  This has now finished the JS Algorithms and Data Structures Certificate.  We will finish up the Repl.it SQL course next time and then jump into the Front End Libraries Certificate.
   - Attendees: Daniel, Michael, Nate, Tyson
+- [023-december-15-2020](./2020/november/020-november-24-2020/readme.md)
+  - Challenge: [Repl.it SQL](https://docs.repl.it/curriculum/introSQL)
+    - We got up to and finished the planets portion of the sql project.  We decided to dive into another meetup to learn about nodejs and Auth0.  Next week we will work on the SQL Murder Mystery.
+    - Continue working on freeCodeCamp's Front End Libraries Certificate during the week.
+  - Attendees: Daniel, James, Michael, Nate
