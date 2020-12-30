@@ -89,6 +89,14 @@
   - Attendees: Daniel, James, Michael, Nate
 - [024-december-22-2020](./2020/december/024-december-22-2020/readme.md)
   - Challenge: [Repl.it SQL](https://docs.repl.it/curriculum/introSQL)
-    - We got up to and finished 
+    - We got up to and finished the murder mystery
     - Continue working on freeCodeCamp's Front End Libraries Certificate during the week.
   - Attendees: Daniel, James, Michael, Nate
+- [025-december-29-2020](./2020/december/025-december-29-2020/readme.md)
+  - Challenge: [Repl.it SQL](https://docs.repl.it/curriculum/introSQL)
+    - We got up to and finished Gold
+    - Continue working on freeCodeCamp's Front End Libraries Certificate during the week.
+  - Attendees: Cory, Daniel, James, Michael, Nate
+- [026-january-05-2021](./2020/december/026-january-05-2021/readme.md)
+  - Challenge: [freeCodeCamp Front End Libraries Projects](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/)
+  - Attendees: 

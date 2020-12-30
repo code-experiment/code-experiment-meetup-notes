@@ -1,4 +1,4 @@
-# Code Experiment Meeting 024 December 22, 2020
+# Code Experiment Meeting 025 December 29, 2020
 
 ## Agenda
 - **Welcome any new people**
@@ -10,18 +10,17 @@
 
 - **Show And Tell**
   - Check to see how far everyone is with the `Front End Libraries Certificate`
-  - Show off my upcoming Flask project
+  - Possibly review the matrix challenge given by Michael
 
 
 - **Todays Challenge**
   - Repl.it SQL?
     - https://docs.repl.it/curriculum/introSQL
-    - We're on `SQL Murder Mystery`
-      - Slide #17 of `SQLSilver`
+    - We're on `SQL Murder Mystery` gold
 
 
 - **Homework**
-  - We got up to and finished the murder mystery
+  - We got up to and finished Gold
   - Continue working on `Front End Libraries Certificate`
       - https://www.freecodecamp.org/learn/front-end-libraries/bootstrap/
 
