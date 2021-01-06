@@ -99,4 +99,7 @@
   - Attendees: Cory, Daniel, James, Michael, Nate
 - [026-january-05-2021](./2020/december/026-january-05-2021/readme.md)
   - Challenge: [freeCodeCamp Front End Libraries Projects](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/)
-  - Attendees: 
+    - We got up to and finished Quote Machine
+    - Continue working on `Front End Libraries Certificate` if you haven't finished it
+    - Research more about ui frameworks
+  - Attendees: Cory, Daniel, James, Nathan 
