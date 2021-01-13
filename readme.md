@@ -103,3 +103,9 @@
     - Continue working on `Front End Libraries Certificate` if you haven't finished it
     - Research more about ui frameworks
   - Attendees: Cory, Daniel, James, Nathan
+- [027-january-12-2021](./2021/january/027-january-12-2021/readme.md)
+  - Challenge: [freeCodeCamp Front End Libraries Projects](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/)
+    - We got up to and finished the Markdown previewer
+    - Continue working on `Front End Libraries Certificate` if you haven't finished it
+    - Research more about ui frameworks
+  - Attendees: Daniel, Michael, and Nathan
