@@ -109,3 +109,9 @@
     - Continue working on `Front End Libraries Certificate` if you haven't finished it
     - Research more about ui frameworks
   - Attendees: Daniel, Michael, and Nathan
+- [028-january-19-2021](./2021/january/028-january-19-2021/readme.md)
+  - Challenge: [freeCodeCamp Front End Libraries Projects](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/)
+    - We got up to and finished the the basic layout and setup for redux on our `Drum Machine`
+    - Continue working on `Front End Libraries Certificate` if you haven't finished it
+    - Research more about ui frameworks
+  - Attendees: Daniel, James, Michael
