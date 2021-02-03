@@ -120,3 +120,8 @@
     - We got up to and finished the basic layout for the calculator.  We came to a solution of using `eval` for the calculations.
     - Continue working on `Front End Libraries Certificate` if you haven't finished it
   - Attendees: Daniel, James, Michael, and Nathan
+- [030-february-02-2021](./2021/january/030-february-02-2021/readme.md)
+  - Challenge: [freeCodeCamp Front End Libraries Projects](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/)
+    - We got up to and partially finished the 25 + 5 clock
+    - Continue working on `Front End Libraries Certificate` if you haven't finished it
+  - Attendees: Daniel, Michael, and Nathan
