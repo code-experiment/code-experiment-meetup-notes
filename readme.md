@@ -125,3 +125,7 @@
     - We got up to and partially finished the 25 + 5 clock
     - Continue working on `Front End Libraries Certificate` if you haven't finished it
   - Attendees: Daniel, Michael, and Nathan
+- [031-february-09-2021](./2021/january/031-february-09-2021/readme.md)
+  - Challenge: [freeCodeCamp Front End Libraries Projects](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/)
+    - We decided on `freeCodeCamp APIs and Microservices` for the next project but didn't start it yet.  We fixed some current bugs with the `code-experiment` website.
+  - Attendees: Daniel and Michael
