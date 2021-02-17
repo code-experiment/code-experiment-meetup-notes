@@ -126,6 +126,9 @@
     - Continue working on `Front End Libraries Certificate` if you haven't finished it
   - Attendees: Daniel, Michael, and Nathan
 - [031-february-09-2021](./2021/january/031-february-09-2021/readme.md)
-  - Challenge: [freeCodeCamp Front End Libraries Projects](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/)
-    - We decided on `freeCodeCamp APIs and Microservices` for the next project but didn't start it yet.  We fixed some current bugs with the `code-experiment` website.
+  - We decided on `freeCodeCamp APIs and Microservices` for the next project but didn't start it yet.  We fixed some current bugs with the `code-experiment` website.
   - Attendees: Daniel and Michael
+- [032-february-16-2021](./2021/january/032-february-16-2021/readme.md)
+  - Challenge: [100dayscss](https://100dayscss.com/)
+    - Daniel taught some basics of html/css and we worked through 100dayscss challenge number 070
+  - Attendees: Daniel, Kody, and Nate
