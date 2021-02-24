@@ -132,3 +132,7 @@
   - Challenge: [100dayscss](https://100dayscss.com/)
     - Daniel taught some basics of html/css and we worked through 100dayscss challenge number 070
   - Attendees: Daniel, Kody, and Nate
+- [033-february-23-2021](./2021/january/033-february-23-2021/readme.md)
+  - Challenge: [freeCodeCamp Timestamp Microservice](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/timestamp-microservice)
+    - We got up to and finished the Timestamp Microservice
+  - Attendees: Austin, Daniel, and Michael
