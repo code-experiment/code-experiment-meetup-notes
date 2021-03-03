@@ -137,6 +137,6 @@
     - We got up to and finished the Timestamp Microservice
   - Attendees: Austin, Daniel, and Michael
 - [034-march-02-2021](./2021/march/034-march-02-2021/readme.md)
-  - Challenge: [freeCodeCamp Timestamp Microservice](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/timestamp-microservice)
-    - We got up to and finished 
+  - Challenge: [Request Header Parser Microservice](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/request-header-parser-microservice)
+    - We helped explain some code challenges, fixed a few bugs, and finished the Request Header Parser Microservice
   - Attendees: Austin, Daniel, and Nate
