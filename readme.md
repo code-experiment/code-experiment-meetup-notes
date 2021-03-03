@@ -120,19 +120,23 @@
     - We got up to and finished the basic layout for the calculator.  We came to a solution of using `eval` for the calculations.
     - Continue working on `Front End Libraries Certificate` if you haven't finished it
   - Attendees: Daniel, James, Michael, and Nathan
-- [030-february-02-2021](./2021/january/030-february-02-2021/readme.md)
+- [030-february-02-2021](./2021/february/030-february-02-2021/readme.md)
   - Challenge: [freeCodeCamp Front End Libraries Projects](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/)
     - We got up to and partially finished the 25 + 5 clock
     - Continue working on `Front End Libraries Certificate` if you haven't finished it
   - Attendees: Daniel, Michael, and Nathan
-- [031-february-09-2021](./2021/january/031-february-09-2021/readme.md)
+- [031-february-09-2021](./2021/february/031-february-09-2021/readme.md)
   - We decided on `freeCodeCamp APIs and Microservices` for the next project but didn't start it yet.  We fixed some current bugs with the `code-experiment` website.
   - Attendees: Daniel and Michael
-- [032-february-16-2021](./2021/january/032-february-16-2021/readme.md)
+- [032-february-16-2021](./2021/february/032-february-16-2021/readme.md)
   - Challenge: [100dayscss](https://100dayscss.com/)
     - Daniel taught some basics of html/css and we worked through 100dayscss challenge number 070
   - Attendees: Daniel, Kody, and Nate
-- [033-february-23-2021](./2021/january/033-february-23-2021/readme.md)
+- [033-february-23-2021](./2021/february/033-february-23-2021/readme.md)
   - Challenge: [freeCodeCamp Timestamp Microservice](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/timestamp-microservice)
     - We got up to and finished the Timestamp Microservice
   - Attendees: Austin, Daniel, and Michael
+- [034-march-02-2021](./2021/march/034-march-02-2021/readme.md)
+  - Challenge: [freeCodeCamp Timestamp Microservice](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/timestamp-microservice)
+    - We got up to and finished 
+  - Attendees: Austin, Daniel, and Nate
