@@ -140,3 +140,6 @@
   - Challenge: [Request Header Parser Microservice](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/request-header-parser-microservice)
     - We helped explain some code challenges, fixed a few bugs, and finished the Request Header Parser Microservice
   - Attendees: Austin, Daniel, and Nate
+- [035-march-09-2021](./2021/march/035-march-09-2021/readme.md)
+  - Originally we planned on working through the URL Shortener Microservice.  Kody Carling came up with a great idea for a full stack app including testing and everything.  We have now formed a team that will work through this on the weekly meetings.
+  - Attendees: Austin, Daniel, Isabel, Kody, Michael, Nathan, and Sheldon
