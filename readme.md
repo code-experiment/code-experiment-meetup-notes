@@ -146,3 +146,6 @@
 - [036-march-16-2021](./2021/march/036-march-16-2021/readme.md)
   - We ended up going over Python Environments and a short intro into FastApi.
   - Attendees: Austin, Daniel, Isabel, Nathan, and Sheldon
+- [037-march-23-2021](./2021/march/037-march-23-2021/readme.md)
+  - We talked about path parameters, query parameters, and body for FastAPI.  We then took a dive into setting up the app for using a SQLAlchemy database.  If you want to catchup clone https://github.com/code-experiment/code_experiment_fastapi_playground.
+  - Attendees: Austin, Daniel, Isabel, and Nathan
