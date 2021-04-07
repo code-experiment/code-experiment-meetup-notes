@@ -154,4 +154,4 @@
   - Attendees: Cory, Daniel, and Nathan
 - [039-april-06-2021](./2021/april/039-april-06-2021/readme.md)
   - We added authentication to lock down the ability to create a todo.  After logging in you can only create a todo for the currently logged in user.  If you want to catchup clone https://github.com/code-experiment/
-  - Attendees: Cory, Daniel, and Nathan
+  - Attendees: Cory, Daniel, Isabel, and Nathan, (Abrahan for about 30min)
