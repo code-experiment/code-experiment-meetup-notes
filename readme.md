@@ -150,8 +150,11 @@
   - We talked about path parameters, query parameters, and body for FastAPI.  We then took a dive into setting up the app for using a SQLAlchemy database.  If you want to catchup clone https://github.com/code-experiment/code_experiment_fastapi_playground.
   - Attendees: Austin, Daniel, Isabel, and Nathan
 - [038-march-30-2021](./2021/march/038-march-30-2021/readme.md)
-  - We added the ability to create users and todos.  If you want to catchup clone https://github.com/code-experiment/
+  - We added the ability to create users and todos.  If you want to catchup clone https://github.com/code-experiment/code_experiment_fastapi_playground.
   - Attendees: Cory, Daniel, and Nathan
 - [039-april-06-2021](./2021/april/039-april-06-2021/readme.md)
-  - We added authentication to lock down the ability to create a todo.  After logging in you can only create a todo for the currently logged in user.  If you want to catchup clone https://github.com/code-experiment/
+  - We added authentication to lock down the ability to create a todo.  After logging in you can only create a todo for the currently logged in user.  If you want to catchup clone https://github.com/code-experiment/code_experiment_fastapi_playground.
   - Attendees: Cory, Daniel, Isabel, and Nathan, (Abrahan for about 30min)
+- [040-april-13-2021](./2021/april/040-april-13-2021/readme.md)
+  - We refactored the app to have a routers folder instead of it all living inside the main file.  We added pytest and added two new tests for the user routes.  Homework is creating more tests or learning more about testing, read the readme for more information.  If you want to catchup clone https://github.com/code-experiment/code_experiment_fastapi_playground.
+  - Attendees: Austin, Cory, Daniel, Isabel, Michael, and Nathan
