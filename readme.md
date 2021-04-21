@@ -158,3 +158,6 @@
 - [040-april-13-2021](./2021/april/040-april-13-2021/readme.md)
   - We refactored the app to have a routers folder instead of it all living inside the main file.  We added pytest and added two new tests for the user routes.  Homework is creating more tests or learning more about testing, read the readme for more information.  If you want to catchup clone https://github.com/code-experiment/code_experiment_fastapi_playground.
   - Attendees: Austin, Cory, Daniel, Isabel, Michael, and Nathan
+- [041-april-20-2021](./2021/april/041-april-20-2021/readme.md)
+  - We messed around with fastAPI Testclient.  We will continue working through the challenges.
+  - Attendees: Nathan, and Daniel
