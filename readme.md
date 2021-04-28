@@ -161,3 +161,6 @@
 - [041-april-20-2021](./2021/april/041-april-20-2021/readme.md)
   - We messed around with fastAPI Testclient.  We will continue working through the challenges.
   - Attendees: Nathan, and Daniel
+- [042-april-27-2021](./2021/april/042-april-27-2021/readme.md)
+  - We finished all the main tests for the current functionality.  We can now start doing the TDD approach for creating the other routes.
+  - Attendees: Daniel and Nathan
