@@ -164,3 +164,6 @@
 - [042-april-27-2021](./2021/april/042-april-27-2021/readme.md)
   - We finished all the main tests for the current functionality.  We can now start doing the TDD approach for creating the other routes.
   - Attendees: Daniel and Nathan
+- [043-may-04-2021](./2021/may/043-may-04-2021/readme.md)
+  - We Added the ability to delete a user and get the users todos.
+  - Attendees: Daniel and Nathan
