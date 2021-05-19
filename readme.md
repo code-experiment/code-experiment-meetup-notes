@@ -167,3 +167,6 @@
 - [043-may-04-2021](./2021/may/043-may-04-2021/readme.md)
   - We Added the ability to delete a user and get the users todos.
   - Attendees: Daniel and Nathan
+- [044-may-18-2021](./2021/may/044-may-18-2021/readme.md)
+  - I changed code base to use a pipfile instead of a requirements file for versioning the packages. We reviewed the tests to get people caught up.  We added a route to toggle a todo complete with tests.  Homework is to figure out how to only allow users to toggle their todos complete since users can toggle anyone elses todos currently.
+  - Attendees: Daniel, Kody, Michael, and Nathan
