@@ -173,3 +173,6 @@
 - [045-may-25-2021](./2021/may/045-may-15-2021/readme.md)
   - We did TDD approach to solving not letting users mark other users todos complete.  After the meeting I refactored a few of the fixtures and updated the new test name.
   - Attendees: Daniel and Michael
+- [046-june-01-2021](./2021/june/046-june-01-2021/readme.md)
+  - We did TDD approach to solve delete todos.  We also protected the main branch and added a pipeline to lint and run our tests before allowing for a merge request.  It might need a little more tweaking but it is working great so far.  Starting next week we will be meeting on Wednesdays and we will either attempt to host the fast api somewhere or start working on the react app.
+  - Attendees: Daniel, Michael, and Nathan
