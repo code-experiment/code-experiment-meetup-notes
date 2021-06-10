@@ -176,3 +176,6 @@
 - [046-june-01-2021](./2021/june/046-june-01-2021/readme.md)
   - We did TDD approach to solve delete todos.  We also protected the main branch and added a pipeline to lint and run our tests before allowing for a merge request.  It might need a little more tweaking but it is working great so far.  Starting next week we will be meeting on Wednesdays and we will either attempt to host the fast api somewhere or start working on the react app.
   - Attendees: Daniel, Michael, and Nathan
+- [047-june-09-2021](./2021/june/047-june-09-2021/readme.md)
+  - No one showed up at first so I went through the process of deploying the fastapi app to heroku with a heroku-postgres database.  I also updated the app to allow CORS.
+  - Attendees: Daniel and Nathan
