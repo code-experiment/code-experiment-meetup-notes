@@ -179,3 +179,6 @@
 - [047-june-09-2021](./2021/june/047-june-09-2021/readme.md)
   - No one showed up at first so I went through the process of deploying the fastapi app to heroku with a heroku-postgres database.  I also updated the app to allow CORS.
   - Attendees: Daniel and Nathan
+- [048-june-16-2021](./2021/june/048-june-16-2021/readme.md)
+  - No one showed up so I worked through some pluralsight react-native stuff for work
+  - Attendees: Daniel
