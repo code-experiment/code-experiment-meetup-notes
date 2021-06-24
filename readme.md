@@ -182,3 +182,6 @@
 - [048-june-16-2021](./2021/june/048-june-16-2021/readme.md)
   - No one showed up so I worked through some pluralsight react-native stuff for work
   - Attendees: Daniel
+- [049-june-23-2021](./2021/june/049-june-23-2021/readme.md)
+  - We started our React TypeScript application.  We got the skeleton setup with an auth, login and signup page.  The homework is to make that functionality work now.
+  - Attendees: Daniel, Michael, and Nathan
