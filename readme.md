@@ -185,3 +185,6 @@
 - [049-june-23-2021](./2021/june/049-june-23-2021/readme.md)
   - We started our React TypeScript application.  We got the skeleton setup with an auth, login and signup page.  The homework is to make that functionality work now.
   - Attendees: Daniel, Michael, and Nathan
+- [050-june-30-2021](./2021/june/050-june-30-2021/readme.md)
+  - We went over React-Testing-Library
+  - Attendees: Daniel and Nathan
